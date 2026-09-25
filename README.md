@@ -81,6 +81,11 @@
 
 ## 🚀 SELECTED BUILDS
 
+<div align="center">
+  <img src="./assets/project-cards.svg" alt="Selected engineering projects" width="100%">
+</div>
+
+
 | Project | What it is |
 |---|---|
 | **EX-QC** | Concrete quality intelligence platform — active |
@@ -170,6 +175,18 @@ PROVENANCE + STANDARDS + DECISION
 ```
 
 ---
+
+
+
+## 📊 BUILD SIGNAL
+
+<div align="center">
+
+<img src="./assets/contribution-strip.svg" alt="Engineering build signal" width="100%">
+
+<sub>CONSISTENCY · SYSTEM DESIGN · SHIPPING · VERIFICATION</sub>
+
+</div>
 
 ## 📌 NOW BUILDING
 
