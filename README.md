@@ -1,172 +1,196 @@
-# Mohammadreza Azarmi
+<!-- PROFILE SKIN: Industrial Intelligence / Concrete × AI -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero.svg">
+    <img src="./assets/profile-hero.svg" alt="Mohammadreza Azarmi — Concrete, AI and Engineering" width="100%">
+  </picture>
+</div>
 
-### Civil Engineer × Concrete QC × AI Systems Builder
+<br>
 
-I build practical software at the intersection of **engineering, quality control, data, and AI**.
+<div align="center">
 
-My background is in civil engineering and concrete quality control. My current focus is turning real engineering workflows into reliable software systems — with traceable data, explicit rules, human review, and automation where it actually helps.
+**Civil Engineer · Concrete QC · AI Systems Builder**
 
----
+*Turning real engineering workflows into reliable software systems.*
 
-## CONCRETE × AI × ENGINEERING
+</div>
 
-```text
-Concrete / QC Data
-        ↓
-Extraction
-        ↓
-Validation
-        ↓
-Rule Engine
-        ↓
-Intelligence
-        ↓
-Decision
-```
+<br>
 
-The goal is not to add AI for the sake of AI.
-
-The goal is to build systems that can take messy real-world engineering data and turn it into **structured, auditable, useful decisions**.
+<div align="center">
+  <img src="./assets/architecture.svg" alt="Engineering intelligence architecture" width="100%">
+</div>
 
 ---
 
-## Currently Building
+## ⚙️ EX-QC
 
-### EX-QC
-**A professional concrete quality intelligence platform**
+### Concrete Quality Intelligence
 
-A multi-tenant QC platform designed around:
+> A professional concrete QC platform built around **real data, evidence, provenance, human review and standards-aware rules**.
 
-- Real laboratory and concrete QC data
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**CORE**
+
+- Multi-tenant QC workflows
 - Source-to-result provenance
-- Human-controlled review and approval
-- Standards-aware rule execution
 - Variable specimen structures
-- Auditability and tenant isolation
-- AI as an accelerator — never as a source of invented facts
+- Human-controlled approval
+- Auditability & tenant isolation
 
-**Status:** Active development
+</td>
+<td width="50%" valign="top">
 
----
+**INTELLIGENCE**
 
-## Selected Work
+- Document extraction
+- Mapping proposals
+- Evidence-aware rules
+- Standards integration
+- AI as an accelerator — not a source of truth
 
-| Project | Focus | Status |
-|---|---|---|
-| **EX-QC** | Concrete QC, data intelligence, provenance, rule engine | Active |
-| **BetonBazBot** | Concrete / engineering AI tooling | Public |
-| **betonbaz-api** | Engineering API / backend tooling | Public |
-| **Digital Organism** | Agentic AI systems and orchestration | Experimental |
+</td>
+</tr>
+</table>
 
----
+<div align="center">
 
-## What I Build
+**SOURCE → DATA → EVIDENCE → RULES → INTELLIGENCE → DECISION**
 
-- Engineering & QC automation
-- AI-assisted data extraction
-- Data validation and provenance systems
-- Rule-based engineering intelligence
-- Multi-tenant SaaS architecture
-- Next.js / React / TypeScript
-- Supabase / PostgreSQL
-- GitHub Actions & CI
-- AI agent orchestration
-- Engineering analytics and dashboards
+</div>
 
 ---
 
-## Engineering Philosophy
+## 🧱 What I Build
 
-> **Real data over demo data.  
-> Evidence over guesses.  
-> Human approval over blind automation.  
-> Architecture before features.**
-
-I prefer systems that are:
-
-- **Traceable** — every important value should have a source.
-- **Defensible** — rules should be backed by evidence.
-- **Safe** — missing or ambiguous data stays missing or goes to review.
-- **Modular** — mature open-source components should be reused when they fit.
-- **Observable** — tests and CI should prove that the system still works.
-- **Practical** — technology should reduce engineering work, not create more of it.
+<table>
+<tr>
+<td align="center" width="25%"><b>ENGINEERING</b><br><sub>Concrete QC<br>Laboratory workflows<br>Standards evidence</sub></td>
+<td align="center" width="25%"><b>DATA</b><br><sub>Extraction<br>Validation<br>Provenance</sub></td>
+<td align="center" width="25%"><b>AI</b><br><sub>Agents<br>LLM workflows<br>Automation</sub></td>
+<td align="center" width="25%"><b>SYSTEMS</b><br><sub>Next.js<br>Supabase<br>CI/CD</sub></td>
+</tr>
+</table>
 
 ---
 
-## Current Architecture Direction
+## 🚀 Selected Projects
 
-```text
-Source Files
-   │
-   ▼
-Extraction
-   │
-   ▼
-Mapping Proposals
-   │
-   ▼
-Human Review
-   │
-   ▼
-QC Registry
-   │
-   ▼
-Sample
-   │
-   ▼
-Test Series
-   │
-   ▼
-Specimens
-   │
-   ▼
-Results
-   │
-   ▼
-Provenance + Standards + Decision
-```
+| Project | What it is |
+|---|---|
+| **EX-QC** | Concrete quality intelligence platform — active |
+| **BetonBazBot** | Concrete / engineering AI tooling |
+| **betonbaz-api** | Engineering API / backend tooling |
+| **Digital Organism** | Agentic AI systems & orchestration |
 
 ---
 
-## Tech
+## 🧠 Engineering Philosophy
 
-**Frontend**
+<div align="center">
 
+**REAL DATA**  
+Evidence over guesses.
+
+**TRACEABLE**  
+Every important value should have a source.
+
+**SAFE**  
+Missing or ambiguous data stays missing or goes to review.
+
+**HUMAN-CONTROLLED**  
+Automation proposes. People decide.
+
+**MODULAR**  
+Reuse mature components instead of reinventing everything.
+
+</div>
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+**Frontend**  
 Next.js · React · TypeScript · Tailwind CSS
 
-**Backend / Data**
-
+**Data & Backend**  
 Supabase · PostgreSQL · RLS · REST APIs
 
-**Engineering**
-
+**Engineering**  
 Concrete QC · Laboratory workflows · Data validation · Standards evidence
 
-**AI / Automation**
+**AI & Automation**  
+LLM extraction · Agent systems · Model routing · Workflow automation
 
-LLM-assisted extraction · Agent systems · Local/cloud model routing · Workflow automation
-
-**DevOps**
-
+**DevOps**  
 GitHub · GitHub Actions · CI · Automated verification
 
----
-
-## Open to
-
-- Engineering software collaboration
-- AI × engineering projects
-- Concrete / construction technology
-- Data and automation systems
-- Open-source tools that solve real workflow problems
+</div>
 
 ---
 
-## GitHub
+## 🔬 Current Architecture
 
-The most important work here is built around one principle:
+```text
+SOURCE FILES
+     │
+     ▼
+EXTRACTION
+     │
+     ▼
+MAPPING PROPOSALS
+     │
+     ▼
+HUMAN REVIEW
+     │
+     ▼
+QC REGISTRY
+     │
+     ▼
+SAMPLE
+     │
+     ▼
+TEST SERIES
+     │
+     ▼
+SPECIMENS
+     │
+     ▼
+RESULTS
+     │
+     ▼
+PROVENANCE + STANDARDS + DECISION
+```
 
-**software should solve a real problem before it tries to look impressive.**
+---
 
-If you're interested in engineering + AI systems, feel free to explore the repositories and follow the build.
+## 📌 Current Focus
 
+**EX-QC** is the main build.
+
+The direction is deliberately different from a typical AI dashboard:
+
+> **AI should make engineering software smarter — not make engineering data less trustworthy.**
+
+---
+
+## 🌐 Find Me
+
+<div align="center">
+
+[GitHub](https://github.com/azarmi8) · [EX-QC Repository](https://github.com/azarmi8/concrete-qc-cloud) · [BetonBazBot](https://github.com/azarmi8/BetonBazBot)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>CONCRETE × DATA × AI × ENGINEERING</sub>
+</div>
