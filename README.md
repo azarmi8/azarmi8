@@ -7,7 +7,19 @@
   </picture>
 </div>
 
+<div align="center">
+  <img src="./assets/profile-console.svg" alt="Engineering command center — Concrete, Data and AI" width="100%">
+</div>
+
 <br>
+
+<div align="center">
+
+[EX-QC](https://github.com/azarmi8/concrete-qc-cloud) · [BetonBazBot](https://github.com/azarmi8/BetonBazBot) · [betonbaz-api](https://github.com/azarmi8/betonbaz-api)
+
+</div>
+
+---
 
 <div align="center">
 
