@@ -1,4 +1,4 @@
-<!-- PROFILE SKIN: Industrial Intelligence / Concrete × AI -->
+<!-- PROFILE SKIN: Industrial Intelligence / Concrete × AI / v2 -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero.svg">
@@ -11,9 +11,9 @@
 
 <div align="center">
 
-**Civil Engineer · Concrete QC · AI Systems Builder**
+**CIVIL ENGINEER · CONCRETE QC · AI SYSTEMS BUILDER**
 
-*Turning real engineering workflows into reliable software systems.*
+*Engineering reality → structured data → traceable decisions.*
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## ⚙️ EX-QC
+## ⚙️ EX-QC  ·  CONCRETE INTELLIGENCE
 
 ### Concrete Quality Intelligence
 
@@ -60,13 +60,13 @@
 
 <div align="center">
 
-**SOURCE → DATA → EVIDENCE → RULES → INTELLIGENCE → DECISION**
+**SOURCE**  →  **DATA**  →  **EVIDENCE**  →  **RULES**  →  **INTELLIGENCE**  →  **DECISION**
 
 </div>
 
 ---
 
-## 🧱 What I Build
+## 🧱 WHAT I BUILD
 
 <table>
 <tr>
@@ -79,7 +79,7 @@
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 SELECTED BUILDS
 
 | Project | What it is |
 |---|---|
@@ -90,7 +90,7 @@
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🧠 ENGINEERING PRINCIPLES
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Reuse mature components instead of reinventing everything.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ SYSTEM STACK
 
 <div align="center">
 
@@ -136,7 +136,7 @@ GitHub · GitHub Actions · CI · Automated verification
 
 ---
 
-## 🔬 Current Architecture
+## 🔬 SYSTEM FLOW
 
 ```text
 SOURCE FILES
@@ -171,17 +171,17 @@ PROVENANCE + STANDARDS + DECISION
 
 ---
 
-## 📌 Current Focus
+## 📌 NOW BUILDING
 
 **EX-QC** is the main build.
 
 The direction is deliberately different from a typical AI dashboard:
 
-> **AI should make engineering software smarter — not make engineering data less trustworthy.**
+> **AI should make engineering software smarter — never make engineering data less trustworthy.**
 
 ---
 
-## 🌐 Find Me
+## 🌐 CONNECT
 
 <div align="center">
 
