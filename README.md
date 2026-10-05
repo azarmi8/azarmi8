@@ -80,6 +80,20 @@ An interactive virtual materials-testing laboratory focused on **procedure, meas
 | **betonbaz-api** | Engineering API / backend tooling | Active |
 | **Digital Organism** | Agent orchestration · AI systems | Building |
 
+### 📘 Standard 6044 Interactive Book
+
+**Iranian National Standard 6044:1397 — Ready-Mixed Concrete**
+
+A professional Persian interactive engineering book / training simulator built by **Mohammadreza Azarmi**.
+
+**Standard → Learn → Animate → Simulate → Practice → Decide → Assess**
+
+The project focuses on source fidelity, interactive engineering scenes, Persian narration, simulations, scenario-based assessment and reusable educational infrastructure.
+
+- [Interactive 6044](https://github.com/azarmi8/standard-6044-interactive)
+- Independent architecture; Papermorph is a methodology reference only
+- Source-first: no invented clauses, limits or acceptance criteria
+
 ---
 
 ## 🧠 ENGINEERING PRINCIPLES
