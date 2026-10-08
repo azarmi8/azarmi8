@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="./assets/profile-hud.gif" alt="Mohammadreza Azarmi — Animated Engineering Intelligence HUD" width="100%">
+<img src="./assets/jarvis-hud.svg" alt="Mohammadreza Azarmi — JARVIS Engineering Intelligence Banner" width="100%">
 
 <br>
+
+<img src="./assets/profile-console.svg" alt="Engineering intelligence console" width="100%">
 
 <sub><strong>ENGINEERING INTELLIGENCE · REAL SYSTEMS · CONTROLLED AI</strong></sub>
 
@@ -80,6 +82,9 @@ Procedure · Measurement · Analysis · Decision · Learning
 
 <div align="center">
 
+<img src="./assets/architecture.svg" alt="Engineering systems architecture" width="100%">
+
+
 **AGENT HQ** — Control Plane · Mission Control · Agent Society · R&amp;D
 
 ↓
@@ -111,6 +116,12 @@ Engineering Platform　　　　　 Simulation / Training
 ---
 
 ## 05 / SELECTED BUILDS
+
+<div align="center">
+
+<img src="./assets/project-cards.svg" alt="Featured engineering and AI systems" width="100%">
+
+</div>
 
 | SYSTEM | ROLE |
 |---|---|
@@ -162,6 +173,8 @@ Engineering Platform　　　　　 Simulation / Training
 <br>
 
 <img src="./assets/systems-console.svg" alt="Engineering systems console" width="100%">
+
+<img src="./assets/contribution-strip.svg" alt="Engineering contribution timeline" width="100%">
 
 <br>
 
