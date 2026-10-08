@@ -10,23 +10,23 @@
 
 ---
 
-## 01 / WHO I AM
+## 01 / IDENTITY
 
 ### Mohammadreza Azarmi
 
 **Civil Engineer · Concrete QC · Engineering Intelligence · AI Systems Builder**
 
-I build software around **real engineering work** — where measurements matter, evidence matters, and automation must remain observable and governed.
+I build software around real engineering work — where measurements, evidence and governance matter.
 
 > **AI accelerates execution. It does not rewrite reality.**
 
 | EVIDENCE | REAL STATE | CONTROL |
 |---|---|---|
-| Traceable inputs, decisions and outcomes. | No invented telemetry or progress. | Automation operates inside explicit boundaries. |
+| Traceable inputs and outcomes. | No invented telemetry or progress. | Automation stays inside explicit boundaries. |
 
 ---
 
-## 02 / THE SYSTEMS
+## 02 / FLAGSHIP SYSTEMS
 
 <table>
 <tr>
@@ -36,11 +36,11 @@ I build software around **real engineering work** — where measurements matter,
 
 **Autonomous AI Company Control Plane**
 
-Agents, missions, execution, society, training, career, R&D and governed self-improvement.
+Agents · Missions · Execution · Society · Training · Career · R&amp;D
 
 **MISSION → EXECUTION → EVIDENCE → DELIVERY**
 
-<a href="https://github.com/azarmi8/agent-hq">OPEN SYSTEM ↗</a>
+<a href="https://github.com/azarmi8/agent-hq">Repository ↗</a>
 
 </td>
 
@@ -50,11 +50,11 @@ Agents, missions, execution, society, training, career, R&D and governed self-im
 
 **Concrete Engineering Intelligence**
 
-Concrete QC, laboratory workflows, standards, evidence, analytics, environment and governed AI.
+QC · Laboratory · Standards · Analytics · Environment · Governed AI
 
 **ENGINEERING → DATA → INTELLIGENCE**
 
-<a href="https://github.com/azarmi8/cretiq">OPEN SYSTEM ↗</a>
+<a href="https://github.com/azarmi8/cretiq">Repository ↗</a>
 
 </td>
 
@@ -64,11 +64,11 @@ Concrete QC, laboratory workflows, standards, evidence, analytics, environment a
 
 **Interactive Materials Simulation**
 
-Perform procedures, read instruments, analyse results, make decisions and learn from measured outcomes.
+Procedure · Measurement · Analysis · Decision · Learning
 
 **MEASURE → DECIDE → ANALYSE → LEARN**
 
-<a href="https://github.com/azarmi8/virtual-concrete-lab">OPEN SYSTEM ↗</a>
+<a href="https://github.com/azarmi8/virtual-concrete-lab">Repository ↗</a>
 
 </td>
 </tr>
@@ -76,12 +76,11 @@ Perform procedures, read instruments, analyse results, make decisions and learn 
 
 ---
 
-## 03 / SYSTEM ARCHITECTURE
+## 03 / SYSTEM MAP
 
 <div align="center">
 
-**AGENT HQ**  
-Control Plane · Mission Control · Agent Society · R&D
+**AGENT HQ** — Control Plane · Mission Control · Agent Society · R&amp;D
 
 ↓
 
@@ -100,86 +99,18 @@ Engineering Platform　　　　　 Simulation / Training
 
 ---
 
-## 04 / ENGINEERING STACK
+## 04 / ENGINEERING SURFACE
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,postgres,docker,githubactions,git&perline=10" alt="Engineering technology stack">
-
-</div>
-
-<table>
-<tr>
-<td><strong>Engineering</strong><br>Concrete QC · Laboratory workflows · Standards · Validation · Simulation</td>
-<td><strong>AI Systems</strong><br>Agent runtimes · LLM workflows · Provider routing · R&amp;D · HITL</td>
-</tr>
-<tr>
-<td><strong>Product</strong><br>Engineering UX · Data products · Interactive systems · Automation</td>
-<td><strong>Delivery</strong><br>GitHub-first · CI · Cloud execution · Evidence-driven verification</td>
-</tr>
-</table>
+| DOMAIN | FOCUS |
+|---|---|
+| **Engineering** | Concrete QC · Laboratory workflows · Standards · Validation · Simulation |
+| **AI Systems** | Agent runtimes · LLM workflows · Provider routing · R&amp;D · HITL |
+| **Software** | TypeScript · React/Next.js · Node.js · Python · APIs · PostgreSQL |
+| **Delivery** | Git · GitHub · Actions · Cloud execution · Evidence-driven verification |
 
 ---
 
 ## 05 / SELECTED BUILDS
-
-<table>
-<tr>
-<td><strong>AGENT HQ</strong><br><sub>AI company control plane</sub><br><a href="https://github.com/azarmi8/agent-hq">→ Repository</a></td>
-<td><strong>CRETIQ</strong><br><sub>Concrete engineering intelligence</sub><br><a href="https://github.com/azarmi8/cretiq">→ Repository</a></td>
-<td><strong>VIRTUAL LAB</strong><br><sub>Interactive concrete simulation</sub><br><a href="https://github.com/azarmi8/virtual-concrete-lab">→ Repository</a></td>
-<td><strong>CRETIQ 6044</strong><br><sub>Interactive engineering education</sub><br><a href="https://github.com/azarmi8/standard-6044-interactive">→ Repository</a></td>
-</tr>
-</table>
-
----
-
-## 06 / BUILD PROTOCOL
-
-<div align="center">
-
-`REAL WORK`  
-↓  
-`OBSERVE`  
-↓  
-`RESEARCH`  
-↓  
-`BUILD`  
-↓  
-`VERIFY`  
-↓  
-`SHIP`  
-↓  
-`LEARN`  
-↓  
-`IMPROVE`
-
-</div>
-
-**The target is not a flashy demo. The target is a system that survives real work.**
-
----
-
-## 07 / ENGINEERING CONSTITUTION
-
-**EVIDENCE OVER GUESSING**  
-When evidence is missing, the system says it is missing.
-
-**REAL STATE ONLY**  
-No synthetic agents, fake progress, fabricated telemetry or invented success.
-
-**AUTOMATION ≠ AUTHORITY**  
-Agents can execute inside defined boundaries; governance remains explicit.
-
-**FREE-FIRST**  
-No silent paid fallback. Resource constraints are system state.
-
-**CONTINUOUS IMPROVEMENT**  
-Validated outcomes become inputs for the next iteration.
-
----
-
-## 08 / ECOSYSTEM
 
 | SYSTEM | ROLE |
 |---|---|
@@ -192,27 +123,41 @@ Validated outcomes become inputs for the next iteration.
 
 ---
 
-## 09 / CURRENT FOCUS
+## 06 / BUILD LOOP
 
 <div align="center">
 
-### ENGINEERING INTELLIGENCE STACK
+`REAL WORK` → `OBSERVE` → `RESEARCH` → `BUILD` → `VERIFY` → `SHIP` → `LEARN` → `IMPROVE`
 
-**Concrete × Data × AI × Automation × Simulation × Autonomous Systems**
+</div>
+
+**The target is not a flashy demo. The target is a system that survives real work.**
+
+---
+
+## 07 / ENGINEERING CONSTITUTION
+
+**EVIDENCE OVER GUESSING** · Missing evidence stays missing.
+
+**REAL STATE ONLY** · No synthetic agents, fake progress or fabricated success.
+
+**AUTOMATION ≠ AUTHORITY** · Agents execute inside defined boundaries; governance remains explicit.
+
+**FREE-FIRST** · No silent paid fallback.
+
+**CONTINUOUS IMPROVEMENT** · Validated outcomes feed the next iteration.
+
+---
+
+## 08 / CURRENT FOCUS
+
+<div align="center">
+
+### CONCRETE × DATA × AI × AUTOMATION × SIMULATION × AUTONOMOUS SYSTEMS
 
 <br>
 
-ENGINEERING REALITY  
-↓  
-STRUCTURED EVIDENCE  
-↓  
-INTELLIGENCE  
-↓  
-EXECUTION  
-↓  
-MEASURED OUTCOMES  
-↓  
-CONTINUOUS IMPROVEMENT
+**ENGINEERING REALITY → STRUCTURED EVIDENCE → INTELLIGENCE → EXECUTION → MEASURED OUTCOME → IMPROVEMENT**
 
 <br>
 
@@ -224,6 +169,15 @@ CONTINUOUS IMPROVEMENT
 
 <br>
 
-<sub>SYSTEMS UNDER CONSTRUCTION · ALWAYS VERIFYING · ALWAYS LEARNING</sub>
+<sub>SYSTEMS UNDER CONSTRUCTION · ALWAYS VERIFYING</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub><strong>AZARMI // ENGINEERING INTELLIGENCE</strong></sub><br>
+<sub>Build useful systems. Measure the outcome. Keep control.</sub>
 
 </div>
