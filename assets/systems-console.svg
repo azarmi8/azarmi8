@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title>Azarmi Engineering Systems Console</title>
+<desc>Animated dark industrial AI systems console for Agent HQ, Cretiq and Virtual Concrete Lab.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030404"/><stop offset=".55" stop-color="#090d0b"/><stop offset="1" stop-color="#020303"/></linearGradient>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39ff88"/><stop offset="1" stop-color="#b7ff3b"/></linearGradient>
+  <linearGradient id="r" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff1638"/><stop offset="1" stop-color="#ff5a2b"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#39ff88" stroke-opacity=".05"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="620" rx="26" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="618" rx="25" fill="url(#grid)" stroke="#39ff88" stroke-opacity=".22"/>
+<circle cx="600" cy="290" r="250" fill="#39ff88" opacity=".035" filter="url(#soft)"/>
+<path d="M0 92H1200" stroke="#ff1638" stroke-opacity=".35"/>
+<path d="M42 566H1158" stroke="#39ff88" stroke-opacity=".2"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="52" y="52" fill="#39ff88" font-size="12" font-weight="800" letter-spacing="5">AZARMI // ENGINEERING SYSTEMS CONSOLE</text>
+  <text x="52" y="82" fill="#ffffff" font-size="24" font-weight="800">REAL SYSTEMS · REAL ENGINEERING · CONTROLLED AI</text>
+  <text x="1148" y="52" text-anchor="end" fill="#ff4055" font-size="10" font-weight="800" letter-spacing="3">COMMAND INTERFACE</text>
+  <g>
+    <rect x="42" y="122" width="350" height="350" rx="18" fill="#050807" stroke="#39ff88" stroke-opacity=".38"/>
+    <rect x="42" y="122" width="350" height="7" rx="3" fill="url(#g)"/>
+    <text x="68" y="160" fill="#39ff88" font-size="10" font-weight="800" letter-spacing="3">01 // CONTROL PLANE</text>
+    <text x="68" y="200" fill="#ffffff" font-size="30" font-weight="900">AGENT HQ</text>
+    <text x="68" y="226" fill="#93a39b" font-size="13">Autonomous AI Company</text>
+    <text x="68" y="248" fill="#93a39b" font-size="13">Control Plane + Agent Society</text>
+    <path d="M68 274H362" stroke="#39ff88" stroke-opacity=".18"/>
+    <g fill="#ffffff" font-size="12">
+      <text x="68" y="306">MISSION CONTROL</text><text x="68" y="334">AGENT LIFECYCLE</text><text x="68" y="362">R&amp;D / EVOLUTION</text><text x="68" y="390">GOVERNED EXECUTION</text>
+    </g>
+    <rect x="68" y="420" width="210" height="5" rx="2" fill="#14231b"/><rect x="68" y="420" width="165" height="5" rx="2" fill="url(#g)"/>
+    <text x="294" y="425" fill="#39ff88" font-size="9">BUILDING</text>
+  </g>
+  <g>
+    <rect x="425" y="122" width="350" height="350" rx="18" fill="#050807" stroke="#ff1638" stroke-opacity=".38"/>
+    <rect x="425" y="122" width="350" height="7" rx="3" fill="url(#r)"/>
+    <text x="451" y="160" fill="#ff4055" font-size="10" font-weight="800" letter-spacing="3">02 // ENGINEERING INTELLIGENCE</text>
+    <text x="451" y="200" fill="#ffffff" font-size="30" font-weight="900">CRETIQ</text>
+    <text x="451" y="226" fill="#93a39b" font-size="13">Concrete Engineering Platform</text>
+    <text x="451" y="248" fill="#93a39b" font-size="13">QC + Lab + Data + AI</text>
+    <path d="M451 274H745" stroke="#ff1638" stroke-opacity=".18"/>
+    <g fill="#ffffff" font-size="12">
+      <text x="451" y="306">QUALITY CONTROL</text><text x="451" y="334">LABORATORY DATA</text><text x="451" y="362">ANALYTICS / AI</text><text x="451" y="390">ENGINEERING EVIDENCE</text>
+    </g>
+    <rect x="451" y="420" width="210" height="5" rx="2" fill="#251014"/><rect x="451" y="420" width="176" height="5" rx="2" fill="url(#r)"/>
+    <text x="687" y="425" fill="#ff4055" font-size="9">BUILDING</text>
+  </g>
+  <g>
+    <rect x="808" y="122" width="350" height="350" rx="18" fill="#050807" stroke="#39ff88" stroke-opacity=".38"/>
+    <rect x="808" y="122" width="350" height="7" rx="3" fill="url(#g)"/>
+    <text x="834" y="160" fill="#39ff88" font-size="10" font-weight="800" letter-spacing="3">03 // SIMULATION</text>
+    <text x="834" y="200" fill="#ffffff" font-size="30" font-weight="900">VIRTUAL LAB</text>
+    <text x="834" y="226" fill="#93a39b" font-size="13">Interactive Materials Testing</text>
+    <text x="834" y="248" fill="#93a39b" font-size="13">Simulation + Training + Research</text>
+    <path d="M834 274H1128" stroke="#39ff88" stroke-opacity=".18"/>
+    <g fill="#ffffff" font-size="12">
+      <text x="834" y="306">MEASURE</text><text x="834" y="334">DECIDE</text><text x="834" y="362">ANALYSE</text><text x="834" y="390">LEARN FROM FAILURE</text>
+    </g>
+    <rect x="834" y="420" width="210" height="5" rx="2" fill="#14231b"/><rect x="834" y="420" width="150" height="5" rx="2" fill="url(#g)"/>
+    <text x="1066" y="425" fill="#39ff88" font-size="9">RESEARCH</text>
+  </g>
+
+  <!-- animated signal -->
+  <g filter="url(#glow)">
+    <circle cx="600" cy="540" r="18" fill="#07100b" stroke="#39ff88" stroke-width="2"/>
+    <circle cx="600" cy="540" r="6" fill="#39ff88">
+      <animate attributeName="r" values="5;10;5" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <path d="M52 520H1148" stroke="#39ff88" stroke-opacity=".08"/>
+  <text x="52" y="545" fill="#7f9288" font-size="11" letter-spacing="2">ENGINEERING → DATA → AI → VERIFICATION → DELIVERY</text>
+  <text x="1148" y="545" text-anchor="end" fill="#ffffff" font-size="11" font-weight="700">NEVER INVENT THE DATA</text>
+  <text x="600" y="585" text-anchor="middle" fill="#39ff88" font-size="10" font-weight="800" letter-spacing="4">SYSTEMS UNDER CONSTRUCTION // ALWAYS LEARNING</text>
+</g>
+</svg>
