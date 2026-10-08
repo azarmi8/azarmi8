@@ -1,8 +1,9 @@
 name: Agent HQ Cloud Execution Bridge
 
 on:
-  issue_comment:
-    types: [created]
+  push:
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -14,9 +15,6 @@ concurrency:
 
 jobs:
   execute:
-    if: >-
-      github.actor == 'azarmi8' &&
-      startsWith(github.event.comment.body, '/run-agent-hq')
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -28,18 +26,9 @@ jobs:
       - name: Install GitHub Copilot CLI
         run: npm install -g @github/copilot
 
-      - name: Parse mission
+      - name: Set probe mission
         id: mission
-        env:
-          COMMENT: ${{ github.event.comment.body }}
-        run: |
-          set -euo pipefail
-          issue="$(printf '%s' "$COMMENT" | awk '{print $2}')"
-          if ! printf '%s' "$issue" | grep -Eq '^[0-9]+$'; then
-            echo "Expected /run-agent-hq <issue-number>" >&2
-            exit 1
-          fi
-          echo "issue=$issue" >> "$GITHUB_OUTPUT"
+        run: echo "issue=125" >> "$GITHUB_OUTPUT"
 
       - name: Clone private Agent HQ workspace
         env:
