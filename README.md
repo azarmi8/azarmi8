@@ -1,188 +1,165 @@
-<!-- PROFILE: Industrial Engineering Intelligence / v4 -->
-
 <div align="center">
-  <img src="./assets/profile-hero.svg" alt="Mohammadreza Azarmi — Civil Engineering, Concrete QC and AI Systems" width="100%">
+
+<img src="./assets/jarvis-hud.svg" alt="Mohammadreza Azarmi — Engineering Intelligence Command Interface" width="100%">
+
 </div>
 
-<div align="center">
-  <br>
-  <b>CIVIL ENGINEER · CONCRETE QC · AI SYSTEMS BUILDER</b><br>
-  <sub>Building engineering systems where data stays traceable and AI stays under human control.</sub>
-  <br><br>
-  <a href="https://github.com/azarmi8/concrete-qc-cloud">EX-QC</a> ·
-  <a href="https://github.com/azarmi8/virtual-concrete-lab">Virtual Concrete Lab</a> ·
-  <a href="https://github.com/azarmi8/BetonBazBot">BetonBazBot</a> ·
-  <a href="https://github.com/azarmi8/betonbaz-api">betonbaz-api</a>
-</div>
+# Mohammadreza Azarmi
+
+**Civil Engineer · Concrete QC · Engineering Intelligence · AI Systems**
+
+I build software at the intersection of **real engineering operations, traceable data, and controlled AI**.
+
+> **REAL ENGINEERING → TRACEABLE DATA → CONTROLLED INTELLIGENCE**
+
+The rule is simple: **AI can accelerate the work. It does not get to rewrite reality.**
 
 ---
 
-## ⚙️ ACTIVE BUILDS
+## ◉ CURRENT SYSTEMS
 
-### EX-QC · Concrete Quality Intelligence
+### 🛰️ Agent HQ — Autonomous AI Company Control Plane
+**Private · Flagship AI systems project**
 
-A professional QC platform for turning engineering source files into **reviewed, traceable and standards-aware data**.
+A cloud-first control plane for an AI company: agents, missions, execution, society, training, career, research, observability and governed self-improvement.
 
-**SOURCE → EXTRACTION → REVIEW → QC REGISTRY → SPECIMENS → RESULTS → DECISION**
+**Mission → Agent → Real Execution → Evidence → PR/CI → Review → Progress**
 
-| Real engineering problem | EX-QC approach |
-|---|---|
-| Messy Excel / PDF / scanned sources | Extraction + explicit mapping |
-| Ambiguous or missing values | Review instead of guessing |
-| Data without traceability | Source → evidence → result provenance |
-| Variable specimen structures | Series → specimens → results |
-| Standards without evidence | Evidence-aware rule execution |
-| AI hallucination risk | AI proposes · human controls |
+Core ideas:
+- Agent Civil Registry & Society
+- Birth → Training → Supervised Validation → Independent Operation
+- Real mission/event journal
+- Provider routing with free-first / no automatic paid fallback
+- R&D and bounded self-evolution
+- Human governance and explicit authority boundaries
+- Visual Mission Control + future living Agent HQ
+
+→ **[Agent HQ](https://github.com/azarmi8/agent-hq)**
+
+### 🧠 Cretiq — Concrete Engineering Intelligence
+**Private · Flagship engineering product**
+
+A cloud engineering platform connecting concrete QC, laboratory workflows, standards, evidence, analytics, environment and governed AI.
+
+**Game-like experience. Serious engineering.**
+
+→ **[Cretiq](https://github.com/azarmi8/cretiq)**
 
 ### 🧪 Virtual Concrete Lab
+**Private · Interactive engineering simulation**
 
-An interactive virtual materials-testing laboratory focused on **procedure, measurement, engineering reasoning and mistakes** — not just quizzes or final-number entry.
+A virtual materials-testing laboratory where users **perform procedures, make decisions, read instruments, analyse results and learn from mistakes**.
 
-**EXP-01 is live:** an interactive Slump Test with equipment selection, nine procedure steps, simulated measurements, mistake feedback, engineering calculations, scoring, missions and printable reports.
+→ **[Virtual Concrete Lab](https://github.com/azarmi8/virtual-concrete-lab)**
 
-**EXP-02 → EXP-08:** curriculum modules planned for temperature, unit weight, cube/cylinder compression, sieve analysis, moisture content and mix design.
+### 📘 CRETIQ 6044
+**Public · Interactive Iranian Standard 6044:1397**
 
-**Explore → Perform → Measure → Interpret → Report**
+A Persian interactive learning environment for ready-mixed concrete: source fidelity, animation, simulation, scenarios and assessment.
 
----
-
-## 🧭 ENGINEERING SYSTEMS
-
-<div align="center">
-  <img src="./assets/architecture.svg" alt="Engineering intelligence architecture" width="100%">
-</div>
-
-**Current engineering focus**
-
-- Multi-tenant data isolation with RLS
-- Append-only audit and controlled soft delete
-- Source-to-result provenance
-- Evidence-backed standards logic
-- Variable specimen structures
-- Human-controlled approval
-- Transparent engineering calculations
-- Simulation engines separated from UI
-- CI and verification gates
+→ **[CRETIQ 6044](https://github.com/azarmi8/standard-6044-interactive)**
 
 ---
 
-## 🚀 SELECTED BUILDS
+## 🧩 SUPPORTING SYSTEMS
 
-<div align="center">
-  <img src="./assets/project-cards.svg" alt="Selected engineering builds" width="100%">
-</div>
-
-| Build | Focus | Status |
+| Project | Role | Status |
 |---|---|---|
-| **EX-QC** | Concrete QC · provenance · standards · data intelligence | **Active** |
-| **Virtual Concrete Lab** | Materials testing · simulation · engineering education | **Active** |
 | **BetonBazBot** | Concrete / engineering AI tooling | Active |
-| **betonbaz-api** | Engineering API / backend tooling | Active |
-| **Digital Organism** | Agent orchestration · AI systems | Building |
-
-### 📘 Standard 6044 Interactive Book
-
-**Iranian National Standard 6044:1397 — Ready-Mixed Concrete**
-
-A professional Persian interactive engineering book / training simulator built by **Mohammadreza Azarmi**.
-
-**Standard → Learn → Animate → Simulate → Practice → Decide → Assess**
-
-The project focuses on source fidelity, interactive engineering scenes, Persian narration, simulations, scenario-based assessment and reusable educational infrastructure.
-
-- [Interactive 6044](https://github.com/azarmi8/standard-6044-interactive)
-- Independent architecture; Papermorph is a methodology reference only
-- Source-first: no invented clauses, limits or acceptance criteria
+| **betonbaz-api** | Engineering API | Supporting |
+| **lab-automation** | Laboratory form/data automation | Supporting |
+| **standard-6044-interactive** | Engineering education runtime | Active |
 
 ---
 
-## 🧠 ENGINEERING PRINCIPLES
+## 🏗️ SYSTEM MAP
 
-> **Evidence over guesses.**  
-> Important values should have a traceable source.
+```
+                         ┌──────────────────────────┐
+                         │       AGENT HQ            │
+                         │ AI COMPANY / CONTROL PLANE│
+                         └────────────┬─────────────┘
+                                      │
+             ┌────────────────────────┼────────────────────────┐
+             │                        │                        │
+        Agent Society            R&D / Evolution        Mission Control
+             │                        │                        │
+             └────────────────────────┼────────────────────────┘
+                                      │
+                              governed intelligence
+                                      │
+              ┌───────────────────────┴───────────────────────┐
+              │                                               │
+          CRETIQ                                         VIRTUAL LAB
+     Engineering Product                              Simulation / Training
+              │                                               │
+              └───────────────────────┬───────────────────────┘
+                                      │
+                             Concrete Engineering
+```
 
-> **Missing means missing.**  
-> Ambiguity goes to review; it does not become invented data.
+---
 
-> **AI is an accelerator, not the authority.**  
-> Automation proposes. Humans control important decisions.
+## ⚙️ ENGINEERING PRINCIPLES
 
-> **Transparent models beat black boxes.**  
-> Engineering calculations should be inspectable and auditable.
+**Evidence over guesses.**  
+Important values need traceable evidence.
 
-> **Reuse before reinventing.**  
-> Mature open-source components are evaluated before custom implementation.
+**Missing means missing.**  
+Ambiguity goes to review; it does not become invented data.
+
+**AI is an accelerator, not the authority.**  
+Important engineering and governance decisions remain controlled.
+
+**Real state only.**  
+No fake telemetry, fake agents, fake progress or invented success.
+
+**Build → verify → observe → improve.**
 
 ---
 
 ## 🛠️ TECHNICAL SURFACE
 
-**Product**  
-React · TypeScript · Vite · Tailwind CSS · shadcn/ui
+**Engineering:** Concrete QC · Laboratory workflows · Standards · Validation · Simulation
 
-**Data**  
-Supabase · PostgreSQL · Convex · RLS · REST APIs · Provenance
+**AI:** Agent systems · LLM workflows · Provider routing · Human-in-the-loop · R&D
 
-**Engineering**  
-Concrete QC · Fresh concrete testing · Laboratory workflows · Standards · Validation · Simulation
+**Software:** TypeScript · React · Next.js · Python · PostgreSQL · Supabase · GitHub Actions
 
-**AI**  
-LLM extraction · Agent systems · Model routing · Workflow automation · Human-in-the-loop AI
-
-**Delivery**  
-GitHub · GitHub Actions · CI · Automated verification · Cloud development
+**Delivery:** GitHub-first · CI · automated verification · cloud execution
 
 ---
 
-## 📊 BUILD STATUS
+## 🚦 OPERATING MODE
+
+```
+REAL WORK
+   ↓
+OBSERVE
+   ↓
+RESEARCH
+   ↓
+BUILD
+   ↓
+VERIFY
+   ↓
+SHIP
+   ↓
+LEARN
+   ↓
+IMPROVE
+```
+
+No invented evidence.  
+No automatic paid escape hatch.  
+No uncontrolled production mutation.
+
+---
 
 <div align="center">
 
-**EX-QC**  
-Active engineering build
+**CONCRETE × DATA × AI × ENGINEERING**
 
-**VIRTUAL CONCRETE LAB**  
-Active simulation build · EXP-01 Slump Test implemented
-
-**DEVELOPMENT MODEL**  
-Agent-assisted · GitHub-centered · Verification-first
-
-**QUALITY BAR**  
-Real data · Traceable changes · Transparent calculations · No fake evidence
-
-</div>
-
----
-
-## 📌 NOW BUILDING
-
-Two connected engineering directions:
-
-**EX-QC** turns real concrete-QC data into traceable engineering intelligence.
-
-**Virtual Concrete Lab** turns concrete-testing procedures into an interactive learning and simulation environment.
-
-The common principle is simple:
-
-**REAL ENGINEERING → TRACEABLE DATA → TRANSPARENT RULES → CONTROLLED INTELLIGENCE**
-
-AI can accelerate the workflow.
-
-**It does not get to rewrite reality.**
-
----
-
-## 🌐 CONNECT
-
-<div align="center">
-
-<a href="https://github.com/azarmi8">GitHub</a> ·
-<a href="https://github.com/azarmi8/concrete-qc-cloud">EX-QC</a> ·
-<a href="https://github.com/azarmi8/virtual-concrete-lab">Virtual Concrete Lab</a> ·
-<a href="https://github.com/azarmi8/BetonBazBot">BetonBazBot</a>
-
-<br><br>
-
-<sub>CONCRETE × DATA × AI × ENGINEERING</sub>
+<sub>Building engineering systems for the next generation of industrial intelligence.</sub>
 
 </div>
