@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hud.svg" alt="Mohammadreza Azarmi — Engineering Intelligence" width="100%">
+<img src="./assets/profile-hud.gif" alt="Mohammadreza Azarmi — Animated Engineering Intelligence HUD" width="100%">
 
 <br>
 
