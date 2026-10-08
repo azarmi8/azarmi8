@@ -1,38 +1,32 @@
 <div align="center">
 
-<img src="./assets/profile-hud.gif" alt="Mohammadreza Azarmi — Engineering Intelligence HUD" width="100%">
-
-<br><br>
-
-<strong>CIVIL ENGINEER · CONCRETE QC · ENGINEERING INTELLIGENCE · AI SYSTEMS</strong>
+<img src="./assets/profile-hud.svg" alt="Mohammadreza Azarmi — Engineering Intelligence" width="100%">
 
 <br>
 
-<sub>Building serious systems at the intersection of engineering reality, traceable data and controlled AI.</sub>
+<sub><strong>ENGINEERING INTELLIGENCE · REAL SYSTEMS · CONTROLLED AI</strong></sub>
 
 </div>
 
 ---
 
-## 01 / POSITION
+## 01 / WHO I AM
 
-### Engineering first. Intelligence second.
+### Mohammadreza Azarmi
 
-I build software around **real engineering work**—where measurements matter, evidence matters, and automation must remain observable and governed.
+**Civil Engineer · Concrete QC · Engineering Intelligence · AI Systems Builder**
+
+I build software around **real engineering work** — where measurements matter, evidence matters, and automation must remain observable and governed.
 
 > **AI accelerates execution. It does not rewrite reality.**
 
-<table>
-<tr>
-<td width="33%"><strong>EVIDENCE</strong><br>Traceable inputs, decisions and outcomes.</td>
-<td width="33%"><strong>REAL STATE</strong><br>No fake telemetry or invented progress.</td>
-<td width="33%"><strong>CONTROL</strong><br>Automation without uncontrolled authority.</td>
-</tr>
-</table>
+| EVIDENCE | REAL STATE | CONTROL |
+|---|---|---|
+| Traceable inputs, decisions and outcomes. | No invented telemetry or progress. | Automation operates inside explicit boundaries. |
 
 ---
 
-## 02 / FLAGSHIP SYSTEMS
+## 02 / THE SYSTEMS
 
 <table>
 <tr>
@@ -42,37 +36,39 @@ I build software around **real engineering work**—where measurements matter, e
 
 **Autonomous AI Company Control Plane**
 
-A cloud-first system for agents, missions, execution, society, training, career, R&D and governed self-improvement.
+Agents, missions, execution, society, training, career, R&D and governed self-improvement.
 
-**Mission → Execution → Evidence → Delivery**
+**MISSION → EXECUTION → EVIDENCE → DELIVERY**
 
-<a href="https://github.com/azarmi8/agent-hq">OPEN AGENT HQ ↗</a>
+<a href="https://github.com/azarmi8/agent-hq">OPEN SYSTEM ↗</a>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🧠 CRETIQ
 
 **Concrete Engineering Intelligence**
 
-Engineering workflows connecting concrete QC, laboratory data, standards, evidence, analytics, environment and AI.
+Concrete QC, laboratory workflows, standards, evidence, analytics, environment and governed AI.
 
-**Engineering + Data + AI + Experience**
+**ENGINEERING → DATA → INTELLIGENCE**
 
-<a href="https://github.com/azarmi8/cretiq">OPEN CRETIQ ↗</a>
+<a href="https://github.com/azarmi8/cretiq">OPEN SYSTEM ↗</a>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🧪 VIRTUAL CONCRETE LAB
 
 **Interactive Materials Simulation**
 
-A virtual lab for performing procedures, reading instruments, analysing results and learning through measured outcomes.
+Perform procedures, read instruments, analyse results, make decisions and learn from measured outcomes.
 
-**Measure → Decide → Analyse → Learn**
+**MEASURE → DECIDE → ANALYSE → LEARN**
 
-<a href="https://github.com/azarmi8/virtual-concrete-lab">OPEN VIRTUAL LAB ↗</a>
+<a href="https://github.com/azarmi8/virtual-concrete-lab">OPEN SYSTEM ↗</a>
 
 </td>
 </tr>
@@ -87,16 +83,16 @@ A virtual lab for performing procedures, reading instruments, analysing results 
 **AGENT HQ**  
 Control Plane · Mission Control · Agent Society · R&D
 
-↓  
+↓
 
 **GOVERNED INTELLIGENCE**
 
-↙　　　　　　　　　　　　↘
+↙　　　　　　　　　　　　　　　　　↘
 
-**CRETIQ**　　　　　　　　 **VIRTUAL CONCRETE LAB**  
-Engineering Platform　　　　 Simulation / Training
+**CRETIQ**　　　　　　　　　　 **VIRTUAL CONCRETE LAB**  
+Engineering Platform　　　　　 Simulation / Training
 
-↘　　　　　　　　　　　　↙
+↘　　　　　　　　　　　　　　　　　↙
 
 **CONCRETE ENGINEERING REALITY**
 
@@ -104,52 +100,86 @@ Engineering Platform　　　　 Simulation / Training
 
 ---
 
-## 04 / ENGINEERING SURFACE
-
-| DOMAIN | WHAT I BUILD |
-|---|---|
-| **Engineering** | Concrete QC · Laboratory workflows · Standards · Validation · Simulation |
-| **AI** | Agent systems · LLM workflows · Provider routing · Human-in-the-loop · R&D |
-| **Software** | TypeScript · React · Next.js · Python · FastAPI · PostgreSQL |
-| **Infrastructure** | GitHub · GitHub Actions · Docker · Cloud execution |
-| **Product** | Data products · Engineering UX · Interactive systems · Automation |
-
----
-
-## 05 / BUILD LOOP
+## 04 / ENGINEERING STACK
 
 <div align="center">
 
-**REAL WORK** → **OBSERVE** → **RESEARCH** → **BUILD** → **VERIFY** → **SHIP** → **LEARN** → **IMPROVE**
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,postgres,docker,githubactions,git&perline=10" alt="Engineering technology stack">
 
 </div>
 
-The objective is not a flashy demo.
-
-**The objective is a system that survives real work.**
+<table>
+<tr>
+<td><strong>Engineering</strong><br>Concrete QC · Laboratory workflows · Standards · Validation · Simulation</td>
+<td><strong>AI Systems</strong><br>Agent runtimes · LLM workflows · Provider routing · R&amp;D · HITL</td>
+</tr>
+<tr>
+<td><strong>Product</strong><br>Engineering UX · Data products · Interactive systems · Automation</td>
+<td><strong>Delivery</strong><br>GitHub-first · CI · Cloud execution · Evidence-driven verification</td>
+</tr>
+</table>
 
 ---
 
-## 06 / ENGINEERING RULES
+## 05 / SELECTED BUILDS
 
-**01 — Evidence over guessing**  
+<table>
+<tr>
+<td><strong>AGENT HQ</strong><br><sub>AI company control plane</sub><br><a href="https://github.com/azarmi8/agent-hq">→ Repository</a></td>
+<td><strong>CRETIQ</strong><br><sub>Concrete engineering intelligence</sub><br><a href="https://github.com/azarmi8/cretiq">→ Repository</a></td>
+<td><strong>VIRTUAL LAB</strong><br><sub>Interactive concrete simulation</sub><br><a href="https://github.com/azarmi8/virtual-concrete-lab">→ Repository</a></td>
+<td><strong>CRETIQ 6044</strong><br><sub>Interactive engineering education</sub><br><a href="https://github.com/azarmi8/standard-6044-interactive">→ Repository</a></td>
+</tr>
+</table>
+
+---
+
+## 06 / BUILD PROTOCOL
+
+<div align="center">
+
+`REAL WORK`  
+↓  
+`OBSERVE`  
+↓  
+`RESEARCH`  
+↓  
+`BUILD`  
+↓  
+`VERIFY`  
+↓  
+`SHIP`  
+↓  
+`LEARN`  
+↓  
+`IMPROVE`
+
+</div>
+
+**The target is not a flashy demo. The target is a system that survives real work.**
+
+---
+
+## 07 / ENGINEERING CONSTITUTION
+
+**EVIDENCE OVER GUESSING**  
 When evidence is missing, the system says it is missing.
 
-**02 — Real state only**  
+**REAL STATE ONLY**  
 No synthetic agents, fake progress, fabricated telemetry or invented success.
 
-**03 — Automation ≠ authority**  
-Agents may execute within defined boundaries; governance remains explicit.
+**AUTOMATION ≠ AUTHORITY**  
+Agents can execute inside defined boundaries; governance remains explicit.
 
-**04 — Free-first**  
-No silent paid fallback. Resource constraints are treated as system state.
+**FREE-FIRST**  
+No silent paid fallback. Resource constraints are system state.
 
-**05 — Continuous improvement**  
-Every validated result becomes input for the next iteration.
+**CONTINUOUS IMPROVEMENT**  
+Validated outcomes become inputs for the next iteration.
 
 ---
 
-## 07 / ECOSYSTEM
+## 08 / ECOSYSTEM
 
 | SYSTEM | ROLE |
 |---|---|
@@ -162,35 +192,37 @@ Every validated result becomes input for the next iteration.
 
 ---
 
-## 08 / CURRENT FOCUS
-
-### BUILDING THE ENGINEERING INTELLIGENCE STACK
-
-**Concrete × Data × AI × Automation × Simulation × Autonomous Systems**
-
-Engineering Reality  
-↓  
-Structured Evidence  
-↓  
-Intelligence  
-↓  
-Execution  
-↓  
-Measured Outcomes  
-↓  
-Continuous Improvement
+## 09 / CURRENT FOCUS
 
 <div align="center">
 
+### ENGINEERING INTELLIGENCE STACK
+
+**Concrete × Data × AI × Automation × Simulation × Autonomous Systems**
+
 <br>
 
-<img src="./assets/systems-console.svg" alt="Azarmi Engineering Systems Console" width="100%">
+ENGINEERING REALITY  
+↓  
+STRUCTURED EVIDENCE  
+↓  
+INTELLIGENCE  
+↓  
+EXECUTION  
+↓  
+MEASURED OUTCOMES  
+↓  
+CONTINUOUS IMPROVEMENT
+
+<br>
+
+<img src="./assets/systems-console.svg" alt="Engineering systems console" width="100%">
 
 <br>
 
 <strong>NEVER INVENT THE DATA.</strong>
 
-<br><br>
+<br>
 
 <sub>SYSTEMS UNDER CONSTRUCTION · ALWAYS VERIFYING · ALWAYS LEARNING</sub>
 
