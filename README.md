@@ -37,7 +37,6 @@ I build practical engineering software and autonomous AI systems around **real d
 | [**Agent HQ**](https://github.com/azarmi8/agent-hq) | Control plane for agent missions, execution, society, training, and R&D |
 | [**Cretiq**](https://github.com/azarmi8/cretiq) | Concrete engineering intelligence, QC workflows, analytics, and governed AI |
 | [**Virtual Concrete Lab**](https://github.com/azarmi8/virtual-concrete-lab) | Interactive materials testing, simulation, and learning |
-| [**CRETIQ 6044**](https://github.com/azarmi8/CRETIQ-6044) | Interactive engineering education |
 | [**BetonBazBot**](https://github.com/azarmi8/BetonBazBot) · [**BetonBaz API**](https://github.com/azarmi8/betonbaz-api) | Supporting concrete and engineering tools |
 
 ## System architecture
