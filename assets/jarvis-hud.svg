@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title>Mohammadreza Azarmi — Engineering Intelligence Command Interface</title>
+<desc>Animated futuristic engineering and AI command interface.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#05090d"/><stop offset=".55" stop-color="#0b151d"/><stop offset="1" stop-color="#10242a"/>
+  </linearGradient>
+  <radialGradient id="core"><stop offset="0" stop-color="#7cf7ff" stop-opacity=".28"/><stop offset=".55" stop-color="#20d9d2" stop-opacity=".08"/><stop offset="1" stop-color="#20d9d2" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#83cbd0" stroke-opacity=".08"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="418" rx="23" fill="url(#grid)" stroke="#43d9d2" stroke-opacity=".22"/>
+<circle cx="1010" cy="205" r="170" fill="url(#core)"/>
+<g fill="none" stroke="#43e5de" stroke-opacity=".5" filter="url(#glow)">
+  <circle cx="1010" cy="205" r="112" stroke-width="1" stroke-dasharray="3 12">
+    <animateTransform attributeName="transform" type="rotate" from="0 1010 205" to="360 1010 205" dur="18s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1010" cy="205" r="86" stroke-width="2" stroke-dasharray="40 10 3 12">
+    <animateTransform attributeName="transform" type="rotate" from="360 1010 205" to="0 1010 205" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1010" cy="205" r="56" stroke-width="1" stroke-dasharray="2 8">
+    <animateTransform attributeName="transform" type="rotate" from="0 1010 205" to="360 1010 205" dur="8s" repeatCount="indefinite"/>
+  </circle>
+</g>
+<g transform="translate(1010 205)" filter="url(#glow)">
+  <circle r="35" fill="#071319" stroke="#73fff7" stroke-width="2"/>
+  <path d="M-22 0H22M0-22V22" stroke="#73fff7" stroke-opacity=".65"/>
+  <circle r="9" fill="#73fff7"><animate attributeName="r" values="7;11;7" dur="2.2s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="70" y="82" fill="#74fff7" font-size="13" font-weight="700" letter-spacing="5">ENGINEERING INTELLIGENCE // COMMAND INTERFACE</text>
+  <text x="70" y="145" fill="#f1fbfb" font-size="42" font-weight="800" letter-spacing="1">MOHAMMADREZA AZARMI</text>
+  <text x="72" y="181" fill="#a8c5c9" font-size="18">CIVIL ENGINEER · CONCRETE QC · AI SYSTEMS BUILDER</text>
+  <text x="72" y="226" fill="#6ff7ef" font-size="12" font-weight="700" letter-spacing="3">CONCRETE × DATA × AI × ENGINEERING</text>
+  <g fill="#89aeb3" font-size="11">
+    <text x="72" y="275">TRACEABILITY</text><text x="242" y="275">REAL STATE</text><text x="412" y="275">HUMAN CONTROL</text>
+    <text x="72" y="298">EVIDENCE</text><text x="242" y="298">AUTOMATION</text><text x="412" y="298">VERIFICATION</text>
+  </g>
+  <g stroke="#43e5de" stroke-opacity=".35"><path d="M72 320H620"/><path d="M72 327H420"/></g>
+  <text x="72" y="365" fill="#66858a" font-size="11" letter-spacing="2">SYSTEMS UNDER CONSTRUCTION · NEVER INVENT THE DATA</text>
+  <g transform="translate(690 72)" fill="none" stroke="#43e5de" stroke-opacity=".38">
+    <path d="M0 0h210"/><path d="M0 7h120"/><path d="M0 14h165"/>
+  </g>
+  <text x="1110" y="365" text-anchor="end" fill="#6ff7ef" font-size="10" letter-spacing="2">ONLINE // BUILDING</text>
+</g>
+<rect x="72" y="333" width="548" height="2" fill="#43e5de" opacity=".55">
+  <animate attributeName="width" values="80;548;180;548" dur="5s" repeatCount="indefinite"/>
+</rect>
+</svg>
