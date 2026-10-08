@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="t d">
+<title id="t">Mohammadreza Azarmi — Engineering Intelligence</title>
+<desc id="d">A dark industrial command interface using black, neon green, red and white.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020303"/><stop offset=".55" stop-color="#0a0d0b"/><stop offset="1" stop-color="#030404"/></linearGradient>
+ <linearGradient id="g" x1="0" x2="1"><stop stop-color="#39ff88"/><stop offset="1" stop-color="#b7ff39"/></linearGradient>
+ <linearGradient id="r" x1="0" x2="1"><stop stop-color="#ff1638"/><stop offset="1" stop-color="#ff5b2d"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#39ff88" stroke-opacity=".045"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="520" rx="26" fill="url(#bg)"/>
+<rect x="1" y="1" width="1398" height="518" rx="25" fill="url(#grid)" stroke="#39ff88" stroke-opacity=".2"/>
+<path d="M0 82H1400" stroke="#ff1638" stroke-opacity=".42"/>
+<path d="M48 454H1352" stroke="#39ff88" stroke-opacity=".16"/>
+
+<g font-family="Arial,Helvetica,sans-serif">
+ <text x="58" y="50" fill="#39ff88" font-size="12" font-weight="800" letter-spacing="5">AZARMI // ENGINEERING INTELLIGENCE</text>
+ <text x="1342" y="50" text-anchor="end" fill="#ff4055" font-size="10" font-weight="800" letter-spacing="3">PERSONAL COMMAND INTERFACE</text>
+
+ <text x="58" y="158" fill="#ffffff" font-size="58" font-weight="900" letter-spacing="1">MOHAMMADREZA</text>
+ <text x="58" y="216" fill="#ffffff" font-size="58" font-weight="900" letter-spacing="1">AZARMI</text>
+ <rect x="60" y="244" width="8" height="8" fill="#ff1638"/>
+ <text x="86" y="253" fill="#dce6e1" font-size="17" font-weight="700" letter-spacing="2">CIVIL ENGINEER · CONCRETE QC · AI SYSTEMS BUILDER</text>
+
+ <text x="60" y="310" fill="#39ff88" font-size="12" font-weight="800" letter-spacing="4">ENGINEERING REALITY → TRACEABLE EVIDENCE → CONTROLLED INTELLIGENCE</text>
+ <text x="60" y="348" fill="#8ea099" font-size="14">Building software where measurements, provenance, automation and human governance meet.</text>
+
+ <g transform="translate(60 390)">
+   <rect width="186" height="36" rx="8" fill="#070a08" stroke="#39ff88" stroke-opacity=".34"/>
+   <text x="18" y="23" fill="#ffffff" font-size="11" font-weight="800">SYSTEM BUILDER</text>
+   <rect x="198" width="186" height="36" rx="8" fill="#090606" stroke="#ff1638" stroke-opacity=".34"/>
+   <text x="216" y="23" fill="#ffffff" font-size="11" font-weight="800">ENGINEERING FIRST</text>
+   <rect x="396" width="186" height="36" rx="8" fill="#070a08" stroke="#39ff88" stroke-opacity=".34"/>
+   <text x="414" y="23" fill="#ffffff" font-size="11" font-weight="800">EVIDENCE DRIVEN</text>
+ </g>
+
+ <!-- signature reactor -->
+ <g transform="translate(1108 258)" filter="url(#glow)">
+  <circle r="150" fill="#39ff88" opacity=".045"/>
+  <circle r="128" fill="none" stroke="#39ff88" stroke-opacity=".25" stroke-dasharray="2 15"/>
+  <circle r="98" fill="none" stroke="#39ff88" stroke-width="2" stroke-opacity=".65" stroke-dasharray="42 12 4 14"/>
+  <circle r="72" fill="none" stroke="#ff1638" stroke-width="1.5" stroke-opacity=".7" stroke-dasharray="7 17"/>
+  <circle r="46" fill="#050807" stroke="#ffffff" stroke-opacity=".65"/>
+  <path d="M-24 0H24M0-24V24" stroke="#39ff88" stroke-opacity=".45"/>
+  <circle r="11" fill="url(#g)"/>
+  <path d="M-168 0H-118M118 0H168M0-168V-118M0 118V168" stroke="#39ff88" stroke-opacity=".32"/>
+  <path d="M-104 -104L-72 -72M104 104L72 72M104 -104L72 -72M-104 104L-72 72" stroke="#ff1638" stroke-opacity=".45"/>
+ </g>
+
+ <g transform="translate(892 418)">
+  <text x="0" y="0" fill="#ffffff" font-size="10" font-weight="800" letter-spacing="3">SIGNATURE</text>
+  <text x="0" y="20" fill="#39ff88" font-size="11" letter-spacing="2">CONCRETE × DATA × AI × ENGINEERING</text>
+ </g>
+
+ <text x="58" y="487" fill="#5e7067" font-size="10" letter-spacing="2">NO FAKE TELEMETRY · NO INVENTED EVIDENCE · NO SILENT PAID FALLBACK</text>
+ <text x="1342" y="487" text-anchor="end" fill="#39ff88" font-size="10" font-weight="800" letter-spacing="2">SYSTEMS UNDER CONSTRUCTION</text>
+</g>
+</svg>
