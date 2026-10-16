@@ -8,10 +8,6 @@
 
 *Engineering first. Intelligence second.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-azarmi8-161b22?style=flat&logo=github)](https://github.com/azarmi8)
-[![Focus](https://img.shields.io/badge/Focus-Engineering%20Intelligence-1b5e52?style=flat)](#engineering-focus)
-[![Approach](https://img.shields.io/badge/Approach-Evidence--Driven-5b4b8a?style=flat)](#operating-principles)
-
 </div>
 
 ---
