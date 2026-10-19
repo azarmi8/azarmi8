@@ -63,6 +63,7 @@ I work across concrete QC and laboratory workflows, interactive engineering educ
 | [Cretiq UI v2](https://github.com/azarmi8/cretiq-ui-v2) | React/TypeScript product interface experiment: dashboard, samples, design-system components, navigation and language-direction foundations | 🌐 Public · Prototype; sample data and unfinished navigation must be treated as such |
 | [MobileLab](https://github.com/azarmi8/MobileLab) | Mobile-first task/workspace UI prototype with local interactions; the agent activity and metrics are simulated, not live cloud execution | 🔒 Private · Prototype |
 | [Mixer Rush](https://github.com/azarmi8/mixer-rush) | Pre-production concept for a mobile-first 3D arcade racer built around concrete mixer trucks and industrial racing environments | 🔒 Private · Pre-production; no playable build claimed |
+| [Make Logo 3D — Windows 11 Live Wallpaper](https://github.com/azarmi8/Make-Logo-3D-w11) | Three.js/Vite animated industrial logo wallpaper packaged for Lively Wallpaper | 🌐 Public · Production build passes; successfully applied on the target Windows machine via ZIP import; performance profiling and broader compatibility checks remain |
 
 **Portfolio policy:** a repository being public does not mean the product is production-ready. I try to label prototypes, unfinished flows, simulated data and release gates honestly.
 
